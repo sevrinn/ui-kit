@@ -1,0 +1,11 @@
+:root {
+	--black-shadows: #cebebe;
+	--bone: #ece2d0;
+	--silver-pink: #d5b9b2;
+	--copper-rose: #a26769;
+	--old-mauve: #6d2e46;
+}
+
+.ui-button {
+	background-color: var(--copper-rose);
+}
