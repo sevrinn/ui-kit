@@ -6,8 +6,20 @@
 	--old-mauve: #6d2e46;
 }
 
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: var(--bone);
+}
+
 .ui-button {
 	background-color: var(--copper-rose);
+	color: var(--bone);
+	padding: 1em 1.5em;
 }
 
 
